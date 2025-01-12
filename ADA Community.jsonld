@@ -1,0 +1,87 @@
+{
+  "@context": {
+    "@language": "en-us",
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "CIP119": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0119/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP119:body",
+      "@context": {
+        "references": {
+          "@id": "CIP119:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Identity": "CIP119:IdentityReference",
+            "Link": "CIP119:LinkReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP119:referenceHash",
+              "@context": {
+                "hashDigest": "CIP119:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "paymentAddress": "CIP119:paymentAddress",
+        "givenName": "CIP119:givenName",
+        "image": "CIP119:image",
+        "objectives": "CIP119:objectives",
+        "motivations": "CIP119:motivations",
+        "qualifications": "CIP119:qualifications",
+        "doNotList": "CIP119:doNotList"
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "hashAlgorithm": {
+    "@value": "blake2b-256"
+  },
+  "body": {
+    "doNotList": false,
+    "givenName": {
+      "@value": "ADA Community"
+    },
+    "motivations": {
+      "@value": "I am an artist and educator by training, and enjoy a fulfilling career as an L&D/ HR practitioner managing global programs. \n\nI am signing up to serve as a DRep to enable: \n\n1. Voters Empowerment: To amplify the voices of ADA holders and ensure fair representation in decision-making processes. \n2. Transparency: To promote openness and accountability in goveranance, building trust across the community\n3. Sustainability: To support long-term development and resilience of the Cardano ecosystem through effective use of resources.\n4. Inclusivity: To create opportunities for diverse participation, ensuring all perspectives are considered in shaping Cardano’s future.\n5. Innovation: To drive progress by encouraging and supporting community-led initiatives and solutions.\n6. Education: To inform and engage stakeholders, enabling them to make well-informed decisions about governance proposals."
+    },
+    "objectives": {
+      "@value": "To represent the collective interests of the Cardano community by fostering transparent governance, empowering ADA holders though inclusive decision making, and promoting sustainable growth within the Cardano ecosystem."
+    },
+    "paymentAddress": {
+      "@value": "addr1qyvrltd4q63meajj9fks20aclzpswkngjg2v8e8pgnnhy338gpe3aln2nrlex4lxmel3tsggdqvj77hwglx7rkddq3lqgw36tk"
+    },
+    "qualifications": {
+      "@value": ""
+    },
+    "references": [
+      {
+        "@type": "Identity",
+        "label": {
+          "@value": "LinkedIn Profile"
+        },
+        "uri": {
+          "@value": "www.linkedin.com/in/james-chew-aik-teow"
+        }
+      }
+    ]
+  }
+}
