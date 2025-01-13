@@ -51,36 +51,18 @@
       }
     }
   },
-  "authors": [],
-  "hashAlgorithm": {
-    "@value": "blake2b-256"
-  },
+  "hashAlgorithm": "blake2b-256",
   "body": {
-    "doNotList": false,
-    "givenName": {
-      "@value": "ADA Community"
-    },
-    "motivations": {
-      "@value": "I am an artist and educator by training, and enjoy a fulfilling career as an L&D/ HR practitioner managing global programs. \n\nI am signing up to serve as a DRep to enable: \n\n1. Voters Empowerment: To amplify the voices of ADA holders and ensure fair representation in decision-making processes. \n2. Transparency: To promote openness and accountability in goveranance, building trust across the community\n3. Sustainability: To support long-term development and resilience of the Cardano ecosystem through effective use of resources.\n4. Inclusivity: To create opportunities for diverse participation, ensuring all perspectives are considered in shaping Cardano’s future.\n5. Innovation: To drive progress by encouraging and supporting community-led initiatives and solutions.\n6. Education: To inform and engage stakeholders, enabling them to make well-informed decisions about governance proposals."
-    },
-    "objectives": {
-      "@value": "To represent the collective interests of the Cardano community by fostering transparent governance, empowering ADA holders though inclusive decision making, and promoting sustainable growth within the Cardano ecosystem."
-    },
-    "paymentAddress": {
-      "@value": "addr1qyvrltd4q63meajj9fks20aclzpswkngjg2v8e8pgnnhy338gpe3aln2nrlex4lxmel3tsggdqvj77hwglx7rkddq3lqgw36tk"
-    },
-    "qualifications": {
-      "@value": ""
-    },
+    "givenName": "ADA Community",
+    "motivations": "Cardano represents more than a blockchain; it’s a vision for a decentralized future that empowers individuals to shape their destiny. As a media producer, educator, and L&D professional, I am inspired by the opportunity to blend creativity, education, and human development to make Cardano governance relatable, engaging, and impactful.\n\nWatching the Cardano ecosystem thrive motivates me daily. \n\nBy becoming a DRep, I aim to:\n\nAdvocate for a transparent and inclusive governance system\nSimplify complex governance topics through engaging content and education\nEmpower individuals to actively participate and shape Cardano’s future\nFoster meaningful discussions and innovative solutions within the community\nCardano is our shared ecosystem, and together, we have the unique opportunity to shape its legacy. It’s my privilege to contribute by empowering others and driving sustainable, community-centric growth.",
+    "objectives": "I believe in the transformative power of decentralization, where every voice matters and decisions reflect the collective wisdom of the community. I encourage all ADA holders to engage in governance, whether by becoming a DRep themselves or delegating to one who shares their principles and values.\n\nAs a DRep, I commit to transparency, providing clear reasoning for every decision and being open to feedback from my delegators. My goal is to empower others by simplifying governance processes and making participation accessible and meaningful.\n\nMy decisions will always align with:\n\nGreater decentralization and inclusivity\nSustainable ecosystem growth rooted in long-term vision\nResponsible use of treasury funds, ensuring high-impact outcomes\nTransparency and trust, building confidence in governance\nCommunity-driven innovation, promoting creative solutions and collaboration",
+    "paymentAddress": "addr1qyvrltd4q63meajj9fks20aclzpswkngjg2v8e8pgnnhy338gpe3aln2nrlex4lxmel3tsggdqvj77hwglx7rkddq3lqgw36tk",
+    "qualifications": "ADA Investor ",
     "references": [
       {
         "@type": "Identity",
-        "label": {
-          "@value": "LinkedIn Profile"
-        },
-        "uri": {
-          "@value": "www.linkedin.com/in/james-chew-aik-teow"
-        }
+        "label": "LinkedIn Profile",
+        "uri": "www.linkedin.com/in/james-chew-aik-teow"
       }
     ]
   }
